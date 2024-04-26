@@ -1,13 +1,11 @@
 
 header {
-    background-color: #424E61;
-}
-header {
-    background-color: #424E61;
-    color: white;
-}
-header {
-    background-color: #424E61;
-    color: white;
-}
+background-color: red;
+padding: 50px;
+text-align: center;
+font-size: 30px;}
 
+
+li{
+    color: grey;
+}
